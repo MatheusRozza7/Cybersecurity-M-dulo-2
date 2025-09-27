@@ -1,4 +1,4 @@
-![Logo da Empresa](./capa-modulo2.png)
+![Logo da Empresa](./Capa-modulo2.png)
 
 # Relatório – Opção 1 (Hands-on)
 
@@ -34,7 +34,6 @@ Fluxo de ataque e defesa estruturado em camadas:
 <div style="text-align: center; padding: 20px;">
   <img src="./diagrama_modulo2.png" alt="Diagrama do Desafio Módulo 2" width="50%" height="50%">
 </div>
----
 
 ## ⚙️ Metodologia
 
@@ -81,3 +80,7 @@ Top 5 ações com maior impacto:
 
 A análise demonstrou que a arquitetura com WAF + Blue Team alcançou maturidade inicial em defesa contra ataques comuns (SQLi e XSS). A proteção foi efetiva no bloqueio, mas requer avanços em **monitoramento, automação e redundância**.  
 Próximos passos incluem ampliar os testes para outros vetores de ataque e fortalecer a integração do time de resposta.
+
+## 📎 Anexos
+
+**https://github.com/MatheusRozza7/Cybersecurity-M-dulo-2.git**
